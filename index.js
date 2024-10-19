@@ -6,7 +6,7 @@ const Recipe = require('./models/Recipe.model');
 const data = require('./data');
 
 // Replace with your MongoDB Atlas connection string
-const MONGODB_URI = 'mongodb+srv://NavinRaj:Navinraj23@cluster0.kdi54.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const MONGODB_URI = 'mongodb_uri';
 
 // Connection to the MongoDB Atlas database
 mongoose
